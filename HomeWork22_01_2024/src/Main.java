@@ -20,5 +20,8 @@ public class Main {
         System.out.print(box5);
         System.out.print(box4.substring(box6));
 
+        
+        //другого варианат не знаю, как сделать Домашние Задание:)
+
     }
 }
